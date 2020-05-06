@@ -1,2 +1,12 @@
-hello sir!
-yup
+What we are going to build:
+  - a simple chat application
+
+
+Webframe works:
+ - HTML (frontend)
+ - CSS (styling, not as important)
+ - PHP (login)
+ - Javascript (backend)
+
+References:
+ https://code.tutsplus.com/tutorials/how-to-create-a-simple-web-based-chat-application--net-5931
